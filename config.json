@@ -1,0 +1,8 @@
+{
+  "app_name": "Satellite Guide",
+  "package_name": "com.hussain.satelliteguide",
+  "developer": "Hussain",
+  "website_url": "https://satellite-guide.netlify.app",
+  "version": "1.0",
+  "description": "Satellite frequencies and receiver updates"
+}
